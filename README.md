@@ -1,3 +1,5 @@
+[![Open in DevZero](https://assets.devzero.io/open-in-devzero.svg)](https://www.devzero.io/dashboard/recipes/new?repo-url=https://github.com/coinbase/terraform-landscape)
+
 # Terraform Landscape
 
 [![Gem Version](https://badge.fury.io/rb/terraform_landscape.svg)](http://badge.fury.io/rb/terraform_landscape)
